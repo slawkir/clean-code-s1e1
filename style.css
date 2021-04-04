@@ -70,7 +70,7 @@ button:hover {
 
 /* Heading */
 h3,
-label[for="adding-task__new-task"] {
+label[for="intro__adding-task__new-task"] {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -98,12 +98,12 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-label[for="adding-task__new-task"] {
+label[for="intro__adding-task__new-task"] {
   display: block;
   margin: 0 0 20px;
 }
 
-#adding-task__new-task {
+#intro__adding-task__new-task {
   width: 318px;
 }
 
