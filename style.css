@@ -15,7 +15,8 @@ body {
   width: 100%;
 }
 
-.header .header__details-link {
+.header, 
+.header__details-link {
   font-family: fantasy, cursive;
 }
 
@@ -43,11 +44,13 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li, 
+h3 {
   list-style:none;
 }
 
-input,button {
+input,
+button {
   outline:none;
 }
 
@@ -130,7 +133,7 @@ li > label {
   width: 226px;
 }
 
-li >    input[type="text"] {
+li > input[type="text"] {
   width: 226px;
 }
 
